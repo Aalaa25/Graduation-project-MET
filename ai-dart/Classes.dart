@@ -1,0 +1,19 @@
+List<String> classes_ = [
+  "NSR",
+  "APB",
+  "AFL",
+  "AFIB",
+  "SVTA",
+  "WPW",
+  "PVC",
+  "Bigeminy",
+  "Trigeminy",
+  "VT",
+  "IVR",
+  "VFL",
+  "Fusion",
+  "LBBBB",
+  "RBBBB",
+  "SDHB",
+  "PR"
+];
