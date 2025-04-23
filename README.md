@@ -26,7 +26,7 @@ This is my graduation project from MET Academy, focused on building a low-cost, 
 
 ## 🎥 Demo
 
-👉 [](https://drive.google.com/file/d/1lAFWz_CNQjc9Hty2qd_VDh7pstPTEV9C/view?usp=sharing)
+👉 [The video](https://drive.google.com/file/d/1lAFWz_CNQjc9Hty2qd_VDh7pstPTEV9C/view?usp=sharing)
 
 ---
 
